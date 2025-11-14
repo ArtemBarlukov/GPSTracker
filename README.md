@@ -78,7 +78,10 @@
 
 ## **Ход работы**
 **Закупка компонентов**
-- 
+- GPS модуль GY-NEO-6M V2 - https://www.ozon.ru/product/gps-modul-gy-neo-6m-v2-1307877936/?__rr=1
+- ESP8266 D1 Mini V2 micro - https://www.ozon.ru/product/esp8266-d1-mini-v2-micro-usb-ch340-modul-na-osnove-nodemcu-lua-esp-12-1276485949/
+- GSM/GPRS модуль SIM800L - https://www.ozon.ru/product/gsm-gprs-modul-sim800l-s-provolochnoy-antennoy-hit-1774687898/
+- Модуль заряда Li-ion аккумуляторов TP4056 (с защитой) - https://www.ozon.ru/product/modul-zaryada-li-ion-akkumulyatorov-tp4056-s-zashchitoy-gnezdo-micro-usb-5v-1a-623144039/
 - 
 
 
