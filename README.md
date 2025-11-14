@@ -82,7 +82,10 @@
 - ESP8266 D1 Mini V2 micro - https://www.ozon.ru/product/esp8266-d1-mini-v2-micro-usb-ch340-modul-na-osnove-nodemcu-lua-esp-12-1276485949/
 - GSM/GPRS модуль SIM800L - https://www.ozon.ru/product/gsm-gprs-modul-sim800l-s-provolochnoy-antennoy-hit-1774687898/
 - Модуль заряда Li-ion аккумуляторов TP4056 (с защитой) - https://www.ozon.ru/product/modul-zaryada-li-ion-akkumulyatorov-tp4056-s-zashchitoy-gnezdo-micro-usb-5v-1a-623144039/
-- 
+- Конденсатор керамический выводной 0,1мкф, 100нф - https://www.ozon.ru/product/kondensator-keramicheskiy-vyvodnoy-0-1mkf-100nf-104-1948764312/
+- Провода-перемычки DuPont - https://www.ozon.ru/product/provoda-peremychki-dupont-dlya-radiokonstruktora-10sm-nabor-3h10shtuk-dlya-arduino-raspberry-pi-1582137925/
+- 1000uf 10v Конденсатор - https://www.ozon.ru/product/5-sht-105c-1000mkf-10v-8-12mm-1000uf-10v-kondensator-elektroliticheskiy-tip-k50-35-tm102m10d8h12-1998876734/
+- Аккумулятор 18650 LiitoKala 3400 mAh - https://www.ozon.ru/product/akkumulyator-18650-liitokala-3400-mah-ploskiy-dlya-modelirovaniya-sborok-fonarey-1-sht-1953254139/
 
 
 
