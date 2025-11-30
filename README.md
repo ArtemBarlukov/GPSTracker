@@ -90,6 +90,7 @@
   **Припаивание**
   
   <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/3e8b9081-1d57-4e9b-9e52-809095e2d54d" />
+  
   <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/82b2ae22-a678-4e1c-b887-af43ac86a1ec" />
 
 
