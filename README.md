@@ -86,6 +86,7 @@
 - ✅ Провода-перемычки DuPont - https://www.ozon.ru/product/provoda-peremychki-dupont-dlya-radiokonstruktora-10sm-nabor-3h10shtuk-dlya-arduino-raspberry-pi-1582137925/
 - ✅ 1000uf 10v Конденсатор - https://www.ozon.ru/product/5-sht-105c-1000mkf-10v-8-12mm-1000uf-10v-kondensator-elektroliticheskiy-tip-k50-35-tm102m10d8h12-1998876734/
 - ✅ Аккумулятор 18650 LiitoKala 3400 mAh - https://www.ozon.ru/product/akkumulyator-18650-liitokala-3400-mah-ploskiy-dlya-modelirovaniya-sborok-fonarey-1-sht-1953254139/
+- 🕒 ❌ Батарейный отсек для аккумуляторов (АКБ) Li-ion - https://ozon.ru/t/4exUESm
 
   **Припаивание**
   
